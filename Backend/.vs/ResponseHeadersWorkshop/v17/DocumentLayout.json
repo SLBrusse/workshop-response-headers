@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\",
+  "WorkspaceRootPath": "C:\\Users\\kaysc\\Documents\\Github\\assignments-kayschluter\\workshop-response-headers\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\source\\repos\\responseheadersworkshop\\responseheadersworkshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|solutionrelative:responseheadersworkshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\source\\repos\\responseheadersworkshop\\responseheadersworkshop\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|solutionrelative:responseheadersworkshop\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\source\\repos\\responseheadersworkshop\\responseheadersworkshop\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|solutionrelative:responseheadersworkshop\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\source\\repos\\responseheadersworkshop\\responseheadersworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\documents\\github\\assignments-kayschluter\\workshop-response-headers\\backend\\responseheadersworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|solutionrelative:responseheadersworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\source\\repos\\responseheadersworkshop\\responseheadersworkshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\documents\\github\\assignments-kayschluter\\workshop-response-headers\\backend\\responseheadersworkshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|solutionrelative:responseheadersworkshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\documents\\github\\assignments-kayschluter\\workshop-response-headers\\backend\\responseheadersworkshop\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|solutionrelative:responseheadersworkshop\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\documents\\github\\assignments-kayschluter\\workshop-response-headers\\backend\\responseheadersworkshop\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|solutionrelative:responseheadersworkshop\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\documents\\github\\assignments-kayschluter\\workshop-response-headers\\backend\\responseheadersworkshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|solutionrelative:responseheadersworkshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,28 +30,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Models\\Contact.cs",
+              "DocumentMoniker": "C:\\Users\\kaysc\\Documents\\Github\\assignments-kayschluter\\workshop-response-headers\\Backend\\ResponseHeadersWorkshop\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "ResponseHeadersWorkshop\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Models\\Contact.cs*",
-              "RelativeToolTip": "ResponseHeadersWorkshop\\Models\\Contact.cs*",
+              "ToolTip": "C:\\Users\\kaysc\\Documents\\Github\\assignments-kayschluter\\workshop-response-headers\\Backend\\ResponseHeadersWorkshop\\Models\\Contact.cs",
+              "RelativeToolTip": "ResponseHeadersWorkshop\\Models\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T11:58:44.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T11:58:44.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Controllers\\ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\kaysc\\Documents\\Github\\assignments-kayschluter\\workshop-response-headers\\Backend\\ResponseHeadersWorkshop\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "ResponseHeadersWorkshop\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\kaysc\\Documents\\Github\\assignments-kayschluter\\workshop-response-headers\\Backend\\ResponseHeadersWorkshop\\Controllers\\ContactController.cs",
               "RelativeToolTip": "ResponseHeadersWorkshop\\Controllers\\ContactController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,39 +59,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PostsController.cs",
-              "DocumentMoniker": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Controllers\\PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\kaysc\\Documents\\Github\\assignments-kayschluter\\workshop-response-headers\\Backend\\ResponseHeadersWorkshop\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "ResponseHeadersWorkshop\\Controllers\\PostsController.cs",
-              "ToolTip": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\kaysc\\Documents\\Github\\assignments-kayschluter\\workshop-response-headers\\Backend\\ResponseHeadersWorkshop\\Controllers\\PostsController.cs",
               "RelativeToolTip": "ResponseHeadersWorkshop\\Controllers\\PostsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:19:40.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T10:19:40.119Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\kaysc\\Documents\\Github\\assignments-kayschluter\\workshop-response-headers\\Backend\\ResponseHeadersWorkshop\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "ResponseHeadersWorkshop\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\kaysc\\Documents\\Github\\assignments-kayschluter\\workshop-response-headers\\Backend\\ResponseHeadersWorkshop\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "ResponseHeadersWorkshop\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:19:25.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T10:19:25.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaysc\\Documents\\Github\\assignments-kayschluter\\workshop-response-headers\\Backend\\ResponseHeadersWorkshop\\Program.cs",
               "RelativeDocumentMoniker": "ResponseHeadersWorkshop\\Program.cs",
-              "ToolTip": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Program.cs",
+              "ToolTip": "C:\\Users\\kaysc\\Documents\\Github\\assignments-kayschluter\\workshop-response-headers\\Backend\\ResponseHeadersWorkshop\\Program.cs",
               "RelativeToolTip": "ResponseHeadersWorkshop\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T10:17:52.715Z",
               "EditorCaption": ""

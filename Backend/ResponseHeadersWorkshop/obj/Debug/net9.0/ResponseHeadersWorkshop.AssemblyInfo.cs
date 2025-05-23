@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResponseHeadersWorkshop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d40423a8ba9be718670ba3ea709339edd163fee")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResponseHeadersWorkshop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResponseHeadersWorkshop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
