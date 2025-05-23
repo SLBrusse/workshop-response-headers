@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\source\\repos\\responseheadersworkshop\\responseheadersworkshop\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|solutionrelative:responseheadersworkshop\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\source\\repos\\responseheadersworkshop\\responseheadersworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|solutionrelative:responseheadersworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\source\\repos\\responseheadersworkshop\\responseheadersworkshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|solutionrelative:responseheadersworkshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|c:\\users\\kaysc\\source\\repos\\responseheadersworkshop\\responseheadersworkshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6941BB-4960-402F-AF27-600A4D020FF6}|ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj|solutionrelative:responseheadersworkshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ResponseHeadersWorkshop\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ResponseHeadersWorkshop\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:20:49.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "ResponseHeadersWorkshop\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "ResponseHeadersWorkshop\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:19:40.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ResponseHeadersWorkshop\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ResponseHeadersWorkshop\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:19:25.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Program.cs",
+              "RelativeDocumentMoniker": "ResponseHeadersWorkshop\\Program.cs",
+              "ToolTip": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\Program.cs",
+              "RelativeToolTip": "ResponseHeadersWorkshop\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:17:52.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

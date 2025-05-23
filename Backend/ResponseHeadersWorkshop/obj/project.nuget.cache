@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XmthUvLepY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaysc\\source\\repos\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop\\ResponseHeadersWorkshop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaysc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\kaysc\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
