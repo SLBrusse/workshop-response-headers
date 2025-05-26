@@ -41,7 +41,7 @@
 
 - Voor het uitvoeren van een `Automated scan` op een `POST request` heeft OWASP ZAP een formulier nodig. Dit formulier is beschikbaar in de Frontend.
 - Navigeer nogmaals naar `Automated scan` in OWASP ZAP.
-- Vul de volgende URL in: `http://localhost:5173/contact`.
+- Vul de volgende URL in: `http://localhost:5173/contact`. (let op als je localhost draait op een andere port)
 - Maak hierbij gebruik van `Ajax Spider`.
 - Start vervolgens de aanval.
 - Zodra de aanval klaar is, zul je ook voor dit request een aantal waarschuwingen krijgen. Om deze waarschuwingen weg te werken zul je response headers moeten toevoegen in `vite.config.js`. Richt je hierbij alleen op de response header waarschuwingen die over `http://localhost:5173/contact` gaan.
