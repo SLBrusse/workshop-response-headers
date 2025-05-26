@@ -1,6 +1,7 @@
 # Response headers
 
 ## Voorbereiding
+
 - Clone of download de startercode.
 
 ## Stap 1: Installeer OWASP ZAP
@@ -33,7 +34,7 @@
 - Selecteer `Use traditional spider`.
 - Start vervolgens de aanval.
 - Zodra de aanval klaar is, zul je linksonderin een aantal waarschuwingen krijgen.
-- Nu is het aan jou om deze waarschuwingen weg te werken, zodat deze bij een volgende scan niet meer terugkomen (Verwijder tussen de scans door wel even de waarschuwing). Richt je hierbij alleen op de response header waarschuwingen die over de `https://localhost:7076/api/posts` URL gaan.
+- Nu is het aan jou om deze waarschuwingen weg te werken, zodat deze bij een volgende scan niet meer terugkomen (Verwijder tussen de scans door wel even de waarschuwing). Richt je hierbij alleen op de response header waarschuwingen die over `https://localhost:7076/api/posts` gaan.
 
 ## Stap 5: OWASP ZAP POST request (Backend)
 
@@ -42,8 +43,10 @@
 - Vul de volgende URL in: `https://localhost:7076/api/contact`.
 - Maak hierbij gebruik van `Ajax Spider`.
 - Start vervolgens de aanval.
-- Zodra de aanval klaar is, zul je ook voor dit request een aantal waarschuwingen krijgen. Richt je hierbij alleen op de response header waarschuwingen die over de `https://localhost:7076/api/contact` URL gaan.
+- Zodra de aanval klaar is, zul je ook voor dit request een aantal waarschuwingen krijgen. Richt je hierbij alleen op de response header waarschuwingen die over `https://localhost:7076/api/contact` gaan.
 
 ## Bonus: Frontend response headers
+
 Tijdens het scannen van het POST request, zul je vast een aantal waarschuwingen zijn tegengekomen die gingen over `http://localhost:5173/contact`.
+
 - Binnen de Frontend code kun je in `vite.config.js` response headers toevoegen. Voeg de benodigde response headers toe om de waarschuwingen weg te werken.
