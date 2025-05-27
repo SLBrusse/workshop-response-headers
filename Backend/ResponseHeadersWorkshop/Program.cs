@@ -2,6 +2,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllers();
+
+//Maak hier een CORS policy aan
+
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
@@ -12,6 +15,15 @@ if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
 }
+
+app.Use(async (context, next) =>
+{
+    //Voeg hier de response headers toe
+
+    await next();
+});
+
+//Gebruik hier de gemaakte CORS policy
 
 app.UseHttpsRedirection();
 
